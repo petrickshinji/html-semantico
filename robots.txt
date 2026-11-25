@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://petrickshinji.github.io/html-semantico/sitemap.xml

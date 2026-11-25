@@ -7,6 +7,10 @@ body {
   line-height: 1.4;
 }
 
+.cabecalho-centro {
+  text-align: center;
+}
+
 .pular {
   position: absolute;
   left: -999px;
